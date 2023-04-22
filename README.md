@@ -6,11 +6,11 @@ Chat app to program umożliwiający użytkownikom rejestrację i logowanie się,
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/QBuKAQH.png)
-![App Screenshot](https://i.imgur.com/QNz6KLA.png)
-![App Screenshot](https://i.imgur.com/XGzcbca.png)
-![App Screenshot](https://i.imgur.com/FofK3zh.png)
-
+![App Screenshot](https://i.imgur.com/WcsMrmA.png)
+![App Screenshot](https://i.imgur.com/H14sql5.png)
+![App Screenshot](https://i.imgur.com/eWWsZKY.png)
+![App Screenshot](https://i.imgur.com/wYX2a0Z.png)
+![App Screenshot](https://i.imgur.com/coWb7E0.png)
 ## Authors
 
 - [@L4yoos](https://www.github.com/L4yoos)
